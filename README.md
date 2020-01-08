@@ -1,0 +1,2 @@
+# vdplugins
+VisiData plugins
